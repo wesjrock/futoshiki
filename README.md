@@ -25,8 +25,8 @@ HOW TO USE
 ```bash
   There are 3 options which you can run through the command line:
   * Backtracking (without pruning): ./executable_name < futoshiki.dat > output_filename.txt
-  * Backtracking with Forward Checking Heuristic: ./executable_name < futoshiki.dat > output_filename.txt
-  * Backtracking with Forward Checking and Minimum Remaining Values Heuristic: ./executable_name < futoshiki.dat > output_filename.txt
+  * Backtracking with Forward Checking Heuristic: ./executable_name -va < futoshiki.dat > output_filename.txt
+  * Backtracking with Forward Checking and Minimum Remaining Values Heuristic: ./executable_name -va -mvr < futoshiki.dat > output_filename.txt
 ```
 
 MORE INFO
