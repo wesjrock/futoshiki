@@ -32,6 +32,6 @@ HOW TO USE
 MORE INFO
 --------------------------------------------------
 
-You can find more information about task specification and the team in the files: `assignment report.pdf` and `task specification.pdf`
+You can find more information about it in the files: `assignment report.pdf` and `task specification.pdf`
 
 * What is Futoshiki? <https://en.wikipedia.org/wiki/Futoshiki>
