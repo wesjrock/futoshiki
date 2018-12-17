@@ -1,0 +1,689 @@
+	1
+4 3 1 2
+3 2 4 1
+1 4 2 3
+2 1 3 4
+Numero de Atribuicoes: 213
+Tempo da busca: 0.000000
+
+2
+2 3 4 1
+1 2 3 4
+3 4 1 2
+4 1 2 3
+Numero de Atribuicoes: 147
+Tempo da busca: 0.000000
+
+3
+3 2 4 1
+1 4 3 2
+4 1 2 3
+2 3 1 4
+Numero de Atribuicoes: 541
+Tempo da busca: 0.000000
+
+4
+2 4 1 3
+4 2 3 1
+3 1 2 4
+1 3 4 2
+Numero de Atribuicoes: 63
+Tempo da busca: 0.000000
+
+5
+2 1 4 3
+1 4 3 2
+4 3 2 1
+3 2 1 4
+Numero de Atribuicoes: 505
+Tempo da busca: 0.000000
+
+6
+4 3 2 1
+2 1 3 4
+3 4 1 2
+1 2 4 3
+Numero de Atribuicoes: 1144
+Tempo da busca: 0.000000
+
+7
+3 2 4 1
+2 4 1 3
+4 1 3 2
+1 3 2 4
+Numero de Atribuicoes: 19
+Tempo da busca: 0.000000
+
+8
+3 4 2 1
+2 3 1 4
+4 1 3 2
+1 2 4 3
+Numero de Atribuicoes: 229
+Tempo da busca: 0.000000
+
+9
+2 3 4 1
+3 1 2 4
+4 2 1 3
+1 4 3 2
+Numero de Atribuicoes: 69
+Tempo da busca: 0.000000
+
+10
+2 4 1 3
+1 3 4 2
+3 1 2 4
+4 2 3 1
+Numero de Atribuicoes: 111
+Tempo da busca: 0.000000
+
+11
+1 2 3 4
+4 3 2 1
+3 1 4 2
+2 4 1 3
+Numero de Atribuicoes: 87
+Tempo da busca: 0.000000
+
+12
+3 2 1 4
+1 4 3 2
+4 1 2 3
+2 3 4 1
+Numero de Atribuicoes: 106
+Tempo da busca: 0.000000
+
+13
+4 1 2 3
+2 3 4 1
+3 4 1 2
+1 2 3 4
+Numero de Atribuicoes: 303
+Tempo da busca: 0.000000
+
+14
+3 1 2 4
+4 2 3 1
+1 3 4 2
+2 4 1 3
+Numero de Atribuicoes: 29
+Tempo da busca: 0.000000
+
+15
+1 2 3 4
+2 3 4 1
+4 1 2 3
+3 4 1 2
+Numero de Atribuicoes: 16
+Tempo da busca: 0.000000
+
+16
+4 2 1 3
+3 1 4 2
+2 4 3 1
+1 3 2 4
+Numero de Atribuicoes: 179
+Tempo da busca: 0.000000
+
+17
+1 3 5 4 2
+3 2 1 5 4
+4 1 3 2 5
+2 5 4 3 1
+5 4 2 1 3
+Numero de Atribuicoes: 553
+Tempo da busca: 0.000000
+
+18
+4 1 3 2 5
+3 2 4 5 1
+2 5 1 4 3
+5 3 2 1 4
+1 4 5 3 2
+Numero de Atribuicoes: 6134
+Tempo da busca: 0.015000
+
+19
+1 5 4 3 2
+5 4 3 2 1
+2 3 1 4 5
+3 2 5 1 4
+4 1 2 5 3
+Numero de Atribuicoes: 7150
+Tempo da busca: 0.016000
+
+20
+3 1 2 4 5
+5 4 1 3 2
+4 2 3 5 1
+2 3 5 1 4
+1 5 4 2 3
+Numero de Atribuicoes: 408
+Tempo da busca: 0.000000
+
+21
+1 2 4 5 3
+2 3 5 1 4
+3 5 1 4 2
+5 4 3 2 1
+4 1 2 3 5
+Numero de Atribuicoes: 611
+Tempo da busca: 0.015000
+
+22
+5 3 4 2 1
+3 4 1 5 2
+2 1 3 4 5
+4 5 2 1 3
+1 2 5 3 4
+Numero de Atribuicoes: 4259
+Tempo da busca: 0.000000
+
+23
+1 4 2 5 3
+2 1 3 4 5
+5 3 1 2 4
+4 2 5 3 1
+3 5 4 1 2
+Numero de Atribuicoes: 110
+Tempo da busca: 0.000000
+
+24
+3 1 4 5 2
+5 2 3 4 1
+4 5 1 2 3
+2 3 5 1 4
+1 4 2 3 5
+Numero de Atribuicoes: 5393
+Tempo da busca: 0.016000
+
+25
+2 5 1 3 4
+3 1 4 5 2
+1 2 3 4 5
+4 3 5 2 1
+5 4 2 1 3
+Numero de Atribuicoes: 481
+Tempo da busca: 0.000000
+
+26
+4 5 3 1 2
+5 3 4 2 1
+3 2 1 4 5
+2 1 5 3 4
+1 4 2 5 3
+Numero de Atribuicoes: 1027
+Tempo da busca: 0.000000
+
+27
+1 2 5 3 4
+4 5 1 2 3
+3 1 4 5 2
+5 3 2 4 1
+2 4 3 1 5
+Numero de Atribuicoes: 141
+Tempo da busca: 0.000000
+
+28
+5 3 4 2 1
+1 2 3 5 4
+2 4 5 1 3
+4 1 2 3 5
+3 5 1 4 2
+Numero de Atribuicoes: 5805
+Tempo da busca: 0.016000
+
+29
+5 1 3 4 2
+3 2 5 1 4
+1 4 2 5 3
+2 5 4 3 1
+4 3 1 2 5
+Numero de Atribuicoes: 4864
+Tempo da busca: 0.015000
+
+30
+2 3 5 1 4
+5 2 3 4 1
+4 5 1 3 2
+1 4 2 5 3
+3 1 4 2 5
+Numero de Atribuicoes: 3615
+Tempo da busca: 0.000000
+
+31
+5 3 1 2 4
+3 2 5 4 1
+2 1 4 5 3
+1 4 2 3 5
+4 5 3 1 2
+Numero de Atribuicoes: 7877
+Tempo da busca: 0.016000
+
+32
+4 5 3 1 2
+3 2 1 5 4
+1 3 4 2 5
+2 1 5 4 3
+5 4 2 3 1
+Numero de Atribuicoes: 4245
+Tempo da busca: 0.015000
+
+33
+6 4 1 5 3 2
+4 3 2 6 5 1
+2 6 3 4 1 5
+5 2 4 1 6 3
+3 1 5 2 4 6
+1 5 6 3 2 4
+Numero de Atribuicoes: 144928
+Tempo da busca: 0.406000
+
+34
+2 3 4 5 1 6
+4 6 1 3 5 2
+5 1 2 4 6 3
+6 4 3 1 2 5
+3 2 5 6 4 1
+1 5 6 2 3 4
+Numero de Atribuicoes: 385608
+Tempo da busca: 1.061000
+
+35
+5 2 4 6 1 3
+2 1 6 5 3 4
+3 5 1 2 4 6
+1 6 3 4 5 2
+6 4 5 3 2 1
+4 3 2 1 6 5
+Numero de Atribuicoes: 5481031
+Tempo da busca: 15.912000
+
+36
+6 2 1 5 4 3
+2 4 3 6 1 5
+4 5 6 2 3 1
+3 6 2 1 5 4
+5 1 4 3 6 2
+1 3 5 4 2 6
+Numero de Atribuicoes: 623841
+Tempo da busca: 1.716000
+
+37
+4 3 5 1 2 6
+3 2 1 6 4 5
+1 6 4 5 3 2
+5 4 3 2 6 1
+2 1 6 4 5 3
+6 5 2 3 1 4
+Numero de Atribuicoes: 144090
+Tempo da busca: 0.421000
+
+38
+4 2 3 1 6 5
+6 4 5 2 3 1
+3 1 6 4 5 2
+1 5 2 6 4 3
+2 3 4 5 1 6
+5 6 1 3 2 4
+Numero de Atribuicoes: 845
+Tempo da busca: 0.000000
+
+39
+5 3 1 6 2 4
+3 4 6 1 5 2
+4 2 5 3 1 6
+2 5 3 4 6 1
+6 1 4 2 3 5
+1 6 2 5 4 3
+Numero de Atribuicoes: 4324
+Tempo da busca: 0.016000
+
+40
+3 5 6 4 1 2
+6 1 4 5 2 3
+1 2 3 6 4 5
+5 4 2 3 6 1
+4 3 1 2 5 6
+2 6 5 1 3 4
+Numero de Atribuicoes: 1858719
+Tempo da busca: 5.163000
+
+41
+5 4 2 6 3 1
+4 6 1 2 5 3
+1 2 3 5 6 4
+2 1 6 3 4 5
+6 3 5 4 1 2
+3 5 4 1 2 6
+Numero de Atribuicoes: 6099
+Tempo da busca: 0.015000
+
+42
+1 2 4 6 3 5
+6 5 2 3 1 4
+3 4 1 5 2 6
+5 6 3 1 4 2
+4 1 5 2 6 3
+2 3 6 4 5 1
+Numero de Atribuicoes: 618109
+Tempo da busca: 1.748000
+
+43
+3 2 5 4 6 1
+4 3 6 1 5 2
+1 6 3 5 2 4
+2 5 1 6 4 3
+5 4 2 3 1 6
+6 1 4 2 3 5
+Numero de Atribuicoes: 69472
+Tempo da busca: 0.187000
+
+44
+5 2 3 4 6 1
+4 6 5 2 1 3
+6 4 1 3 5 2
+2 1 4 6 3 5
+3 5 6 1 2 4
+1 3 2 5 4 6
+Numero de Atribuicoes: 325
+Tempo da busca: 0.000000
+
+45
+4 6 1 3 2 5
+3 4 6 2 5 1
+2 1 3 5 6 4
+5 3 2 1 4 6
+6 2 5 4 1 3
+1 5 4 6 3 2
+Numero de Atribuicoes: 31771
+Tempo da busca: 0.078000
+
+46
+6 1 3 2 4 5
+1 4 5 6 3 2
+4 3 2 5 1 6
+5 2 1 3 6 4
+3 5 6 4 2 1
+2 6 4 1 5 3
+Numero de Atribuicoes: 8671
+Tempo da busca: 0.031000
+
+47
+2 6 3 1 5 4
+5 3 4 2 6 1
+4 1 5 6 2 3
+1 5 6 3 4 2
+6 2 1 4 3 5
+3 4 2 5 1 6
+Numero de Atribuicoes: 13810
+Tempo da busca: 0.031000
+
+48
+2 1 3 6 4 5
+6 5 1 2 3 4
+4 3 6 5 1 2
+1 6 5 4 2 3
+5 4 2 3 6 1
+3 2 4 1 5 6
+Numero de Atribuicoes: 1169730
+Tempo da busca: 3.167000
+
+49
+5 7 6 4 2 3 1
+4 6 5 3 7 1 2
+1 3 2 5 4 7 6
+2 5 1 7 3 6 4
+7 4 3 1 6 2 5
+3 2 4 6 1 5 7
+6 1 7 2 5 4 3
+Numero de Atribuicoes: 1371424
+Tempo da busca: 4.462000
+
+50
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+51
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+52
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+53
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+54
+4 1 3 5 2 7 6
+2 6 1 4 5 3 7
+6 5 7 3 4 1 2
+3 7 5 1 6 2 4
+7 2 4 6 3 5 1
+5 4 2 7 1 6 3
+1 3 6 2 7 4 5
+Numero de Atribuicoes: 242777
+Tempo da busca: 0.811000
+
+55
+4 1 3 7 2 5 6
+7 6 1 5 4 3 2
+6 2 5 4 3 7 1
+2 7 4 6 5 1 3
+1 3 7 2 6 4 5
+5 4 2 3 1 6 7
+3 5 6 1 7 2 4
+Numero de Atribuicoes: 3226878
+Tempo da busca: 10.546000
+
+56
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+57
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+58
+2 6 4 5 3 1 7
+7 3 5 2 6 4 1
+1 5 6 7 4 2 3
+4 2 7 3 1 5 6
+3 7 1 4 2 6 5
+6 4 3 1 5 7 2
+5 1 2 6 7 3 4
+Numero de Atribuicoes: 340475
+Tempo da busca: 1.123000
+
+59
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+60
+1 7 4 6 5 3 2
+2 4 1 5 6 7 3
+4 1 3 2 7 5 6
+5 6 2 7 3 1 4
+6 5 7 3 4 2 1
+3 2 5 4 1 6 7
+7 3 6 1 2 4 5
+Numero de Atribuicoes: 3185502
+Tempo da busca: 10.187000
+
+61
+7 1 2 3 4 5 6
+4 5 3 6 7 1 2
+6 7 4 2 1 3 5
+3 2 7 1 5 6 4
+1 6 5 7 2 4 3
+5 3 1 4 6 2 7
+2 4 6 5 3 7 1
+Numero de Atribuicoes: 487285
+Tempo da busca: 1.544000
+
+62
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+63
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+64
+1 4 5 2 7 6 3
+5 7 2 6 1 3 4
+3 5 1 4 6 2 7
+7 3 6 1 2 4 5
+4 2 7 3 5 1 6
+2 6 3 7 4 5 1
+6 1 4 5 3 7 2
+Numero de Atribuicoes: 4563292
+Tempo da busca: 14.913000
+
+65
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+66
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+67
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+68
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+69
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+70
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+71
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+72
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+73
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+74
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+75
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+76
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+77
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+78
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+79
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+80
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+81
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+82
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+83
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+84
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+85
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+86
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+87
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+88
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+89
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+90
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+91
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+92
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+93
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+94
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+95
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+96
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+97
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+98
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+99
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
+100
+Numero de atribuicoes excede limite maximo
+Solucao nao encontrada.
+
