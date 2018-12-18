@@ -19,7 +19,7 @@ Compiling:
   $ g++ main.cpp -o executable_name
 ```
 
-HOW TO USE
+HOW TO RUN
 --------------------------------------------------
 
 ```bash
