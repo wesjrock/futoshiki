@@ -1,5 +1,8 @@
 # Futoshiki
 
+![Screenshot 1](img/screenshot1.png)
+![Screenshot 2](img/screenshot2.png)
+
 OVERVIEW
 --------------------------------------------------
 This is an implementation of a Futoshiki game solver for the [Advanced Algorithms] course. The purpose of this project was to implement a futoshiki solver and compare the efficiency between backtracking algorithms.  It was made at the Computer Science course from University of São Paulo (ICMC - USP).
