@@ -29,6 +29,11 @@ HOW TO RUN
   * Backtracking with Forward Checking and Minimum Remaining Values Heuristic: ./executable_name -va -mvr < futoshiki.dat > output_filename.txt
 ```
 
+TEAM
+--------------------------------------------------
+- Weslei Renato de Lima
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 
